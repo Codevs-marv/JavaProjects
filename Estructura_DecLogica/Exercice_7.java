@@ -1,3 +1,7 @@
+// EXERCICE:
+// Hacer un algoritmo que, dados dos valores numéricos A y B, escriba un mensaje diciendo si A es mayor, menor o igual a B.
+
+
 package Estructura_DecLogica;
 import java.util.Scanner;
 
