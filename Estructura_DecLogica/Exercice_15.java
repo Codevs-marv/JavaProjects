@@ -1,5 +1,6 @@
-/* Se tienen cuatro esferas (A, B, C, D) de las cuales se sabe que tres son de igual peso y una
-diferente. Elaborar un algoritmo que determine cuál es la esfera diferente y si es de mayor
+
+/*  EXERCICE :
+Se tienen cuatro esferas (A, B, C, D) de las cuales se sabe que tres son de igual peso y una diferente. Elaborar un algoritmo que determine cuál es la esfera diferente y si es de mayor
 o menor peso. */
 
 
